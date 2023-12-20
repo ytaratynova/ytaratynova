@@ -22,13 +22,13 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=ytaratynova&style=flat-square&color=blue" alt=""/>
  </div>
 
-About me: 
+### :woman_technologist: About Me :
 
 - 🔭 I’m a junior front end developer
 - 🌱 I’ve got a master degree in applied mathematics
 - ⚡ I have 5-year experience as a data analyst
 
-
+### :hammer_and_wrench: Languages and Tools :
   
 
 
