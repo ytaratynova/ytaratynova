@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![girl is codding](https://github.com/ytaratynova/ytaratynova/assets/106394285/da84209b-b4fc-496b-bc28-6c979fccee08)
+  ![girl is codding](https://github.com/ytaratynova/ytaratynova/assets/106394285/da84209b-b4fc-496b-bc28-6c979fccee08)
+
 
 
