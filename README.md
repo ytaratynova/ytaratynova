@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- <div id="badges">
-   <img src="https://komarev.com/ghpvc/?ytaratynova&style=flat-square&color=blue" alt=""/>
- </div>
-  
+ 
 
 -->
 
@@ -24,6 +21,14 @@ Here are some ideas to get you started:
  <div id="badges">
    <img src="https://komarev.com/ghpvc/?username=ytaratynova&style=flat-square&color=blue" alt=""/>
  </div>
+
+About me: 
+
+- 🔭 I’m a junior front end developer
+- 🌱 I’ve got a master degree in applied mathematics
+- ⚡ I have 5-year experience as a data analyst
+
+
   
 
 
