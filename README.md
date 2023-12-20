@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m a junior front end developer
-- 🌱 I’ve got a master degree in applied mathematics
-- ⚡ I have 5-year experience as a data analyst
+- 🔭 I’m a junior front end developer... so I'm brave enough to try something new
+- 🌱 I’ve got a master degree in applied mathematics... so I'm very smart
+- ⚡ I have 5-year experience as a data analyst... so I can count well
+- 😄 I love chocolate and forget-me-nots... these girls )))
 
 ### :hammer_and_wrench: Languages and Tools :
   
