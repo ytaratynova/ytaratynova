@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 
   ![girl is codding](https://github.com/ytaratynova/ytaratynova/assets/106394285/da84209b-b4fc-496b-bc28-6c979fccee08)
 
+ <div id="badges">
+   <img src="https://komarev.com/ghpvc/?ytaratynova&style=flat-square&color=blue" alt=""/>
+ </div>
+  
+
 
 
