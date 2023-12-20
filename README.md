@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
-</div>
-
 <!--
 **ytaratynova/ytaratynova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![girl is codding](https://github.com/ytaratynova/ytaratynova/assets/106394285/da84209b-b4fc-496b-bc28-6c979fccee08)
+
+
